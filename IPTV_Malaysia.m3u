@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_of_TV1_%28Malaysia%29.svg" group-title="RTM",TV1
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
+#EXTINF:-1 tvg-name="Drama" tvg-logo="" group-title="Entertainment",Drama
+https://d13snj70thqlha.cloudfront.net/1dcc1d01-7b70-4d2e-a06e-980580cd1061/SerambiSyurgamu-20240412.m3u8?id=14252
+#EXTINF:-1 tvg-name="Snap TV" tvg-logo="" group-title="Others",Snap TV
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_of_TV2_%28Malaysia%29.svg" group-title="RTM",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/TV3_Malaysia_Logo.svg" group-title="Media Prima",TV3
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/8TV_Malaysia_Logo.svg" group-title="Media Prima",TV8
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf
+#EXTINF:-1 tvg-name="TV Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/TV_Okey_RTM.png" group-title="RTM",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-name="Sukan RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Sukan_RTM_Logo.png" group-title="RTM",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#EXTINF:-1 tvg-name="TV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/TV6_RTM_Logo.png" group-title="RTM",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF:-1 tvg-name="RTM Asean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/RTM_Asean_Logo.png" group-title="RTM",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+#EXTINF:-1 tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TV_Alhijrah_Logo.png" group-title="Islamic",TV Alhijrah
+https://live.mana2.my/TvAlhijrah/index.m3u8
+#EXTINF:-1 tvg-name="TV Ikim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/TV_Ikim_Logo.png" group-title="Islamic",TV Ikim
+https://live.mana2.my/TvIkim/index.m3u8
+#EXTINF:-1 tvg-name="NHK Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NHK_logo.svg" group-title="International",NHK Japan
+https://live.mana2.my/NhkWorld/index.m3u8
+#EXTINF:-1 tvg-name="DW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Deutsche_Welle_Logo.svg" group-title="International",DW TV
+https://live.mana2.my/DW/index.m3u8
+#EXTINF:-1 tvg-name="SUKE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SUKE_TV_Logo.png" group-title="Entertainment",SUKE TV
+https://live.mana2.my/SukeTv/index.m3u8
